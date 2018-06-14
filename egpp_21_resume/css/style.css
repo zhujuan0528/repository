@@ -144,7 +144,7 @@ padding: 3px 8px;
 	overflow:hidden;
 }
 .skill-level{
-  background: url('../images/full.png') no-repeat;
+  background: url('../Images/full.png') no-repeat;
   background-position: 100% 100%;
   height: 150px;
   width: 150px;
@@ -152,10 +152,10 @@ padding: 3px 8px;
   padding-top: 50px;
 }
 .skill-level-a{
-  background: url('../images/half.png') no-repeat;
+  background: url('../Images/half.png') no-repeat;
 }
 .skill-level-b{
-  background: url('../images/low.png') no-repeat;
+  background: url('../Images/low.png') no-repeat;
 }
 .skill-level label{
   text-transform: uppercase;
