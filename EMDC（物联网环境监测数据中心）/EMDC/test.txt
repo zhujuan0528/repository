@@ -1,0 +1,134 @@
+com.briup.environment.util.LogImpl.debug(LogImpl.java:14)-采集环境数据：98480
+com.briup.environment.util.LogImpl.info(LogImpl.java:19)-温度 湿度：32743
+com.briup.environment.util.LogImpl.info(LogImpl.java:19)-光照强度：22926
+com.briup.environment.util.LogImpl.info(LogImpl.java:19)-二氧化碳：10068
+com.briup.environment.util.LogImpl.debug(LogImpl.java:14)-数据入库的天数： 19
+com.briup.environment.util.LogImpl.debug(LogImpl.java:14)-数据入库的天数： 20
+com.briup.environment.util.LogImpl.debug(LogImpl.java:14)-数据入库的天数： 21
+com.briup.environment.util.LogImpl.debug(LogImpl.java:14)-数据入库的天数： 22
+com.briup.environment.util.LogImpl.debug(LogImpl.java:14)-数据入库的天数： 23
+com.briup.environment.util.LogImpl.debug(LogImpl.java:14)-数据入库的天数： 24
+com.briup.environment.util.LogImpl.debug(LogImpl.java:14)-数据入库的天数： 25
+com.briup.environment.util.LogImpl.debug(LogImpl.java:14)-数据入库的天数： 26
+com.briup.environment.util.LogImpl.info(LogImpl.java:19)-Waiting...
+com.briup.environment.util.LogImpl.debug(LogImpl.java:14)-采集环境数据：98480
+com.briup.environment.util.LogImpl.info(LogImpl.java:19)-温度 湿度：32743
+com.briup.environment.util.LogImpl.info(LogImpl.java:19)-光照强度：22926
+com.briup.environment.util.LogImpl.info(LogImpl.java:19)-二氧化碳：10068
+com.briup.environment.util.LogImpl.info(LogImpl.java:19)-Connecting...
+com.briup.environment.util.LogImpl.info(LogImpl.java:19)-Connected! Now sending...
+com.briup.environment.util.LogImpl.info(LogImpl.java:19)-Got information
+com.briup.environment.util.LogImpl.info(LogImpl.java:19)-Sent complete!
+com.briup.environment.util.LogImpl.debug(LogImpl.java:14)-数据入库的天数： 19
+com.briup.environment.util.LogImpl.debug(LogImpl.java:14)-数据入库的天数： 20
+com.briup.environment.util.LogImpl.debug(LogImpl.java:14)-数据入库的天数： 21
+com.briup.environment.util.LogImpl.debug(LogImpl.java:14)-数据入库的天数： 22
+com.briup.environment.util.LogImpl.debug(LogImpl.java:14)-数据入库的天数： 23
+com.briup.environment.util.LogImpl.debug(LogImpl.java:14)-数据入库的天数： 24
+com.briup.environment.util.LogImpl.debug(LogImpl.java:14)-数据入库的天数： 25
+com.briup.environment.util.LogImpl.debug(LogImpl.java:14)-数据入库的天数： 26
+com.briup.environment.util.LogImpl.info(LogImpl.java:19)-Waiting...
+com.briup.environment.util.LogImpl.debug(LogImpl.java:14)-采集环境数据：98480
+com.briup.environment.util.LogImpl.info(LogImpl.java:19)-温度 湿度：32743
+com.briup.environment.util.LogImpl.info(LogImpl.java:19)-光照强度：22926
+com.briup.environment.util.LogImpl.info(LogImpl.java:19)-二氧化碳：10068
+com.briup.environment.util.LogImpl.info(LogImpl.java:19)-Connecting...
+com.briup.environment.util.LogImpl.info(LogImpl.java:19)-Connected! Now sending...
+com.briup.environment.util.LogImpl.info(LogImpl.java:19)-Got information
+com.briup.environment.util.LogImpl.info(LogImpl.java:19)-Sent complete!
+com.briup.environment.util.LogImpl.debug(LogImpl.java:14)-数据入库的天数： 19
+com.briup.environment.util.LogImpl.debug(LogImpl.java:14)-数据入库的天数： 20
+com.briup.environment.util.LogImpl.debug(LogImpl.java:14)-数据入库的天数： 21
+com.briup.environment.util.LogImpl.debug(LogImpl.java:14)-数据入库的天数： 22
+com.briup.environment.util.LogImpl.debug(LogImpl.java:14)-数据入库的天数： 23
+com.briup.environment.util.LogImpl.debug(LogImpl.java:14)-数据入库的天数： 24
+com.briup.environment.util.LogImpl.debug(LogImpl.java:14)-数据入库的天数： 25
+com.briup.environment.util.LogImpl.debug(LogImpl.java:14)-数据入库的天数： 26
+com.briup.environment.util.LogImpl.debug(LogImpl.java:14)-采集环境数据：0
+com.briup.environment.util.LogImpl.info(LogImpl.java:19)-温度 湿度：0
+com.briup.environment.util.LogImpl.info(LogImpl.java:19)-光照强度：0
+com.briup.environment.util.LogImpl.info(LogImpl.java:19)-二氧化碳：0
+com.briup.environment.util.LogImpl.debug(LogImpl.java:18)-sdfdsf
+com.briup.environment.util.LogImpl.debug(LogImpl.java:18)-this is debug
+com.briup.environment.util.LogImpl.info(LogImpl.java:23)-this is info
+com.briup.environment.util.LogImpl.warn(LogImpl.java:28)-this is warn
+com.briup.environment.util.LogImpl.error(LogImpl.java:33)-this is error
+com.briup.environment.util.LogImpl.fatal(LogImpl.java:38)-this is fatal
+com.briup.environment.util.LogImpl.debug(LogImpl.java:18)-this is debug
+com.briup.environment.util.LogImpl.info(LogImpl.java:23)-this is info
+com.briup.environment.util.LogImpl.warn(LogImpl.java:28)-this is warn
+com.briup.environment.util.LogImpl.error(LogImpl.java:33)-this is error
+com.briup.environment.util.LogImpl.fatal(LogImpl.java:38)-this is fatal
+com.briup.environment.util.LogImpl.debug(LogImpl.java:18)-采集环境数据：0
+com.briup.environment.util.LogImpl.info(LogImpl.java:23)-温度 湿度：0
+com.briup.environment.util.LogImpl.info(LogImpl.java:23)-光照强度：0
+com.briup.environment.util.LogImpl.info(LogImpl.java:23)-二氧化碳：0
+com.briup.environment.util.LogImpl.info(LogImpl.java:23)-Connecting...
+com.briup.environment.util.LogImpl.error(LogImpl.java:33)-send fail
+com.briup.environment.util.LogImpl.debug(LogImpl.java:18)-sdfdsf
+com.briup.environment.util.LogImpl.info(LogImpl.java:23)-Waiting...
+com.briup.environment.util.LogImpl.debug(LogImpl.java:18)-采集环境数据：0
+com.briup.environment.util.LogImpl.info(LogImpl.java:23)-温度 湿度：0
+com.briup.environment.util.LogImpl.info(LogImpl.java:23)-光照强度：0
+com.briup.environment.util.LogImpl.info(LogImpl.java:23)-二氧化碳：0
+com.briup.environment.util.LogImpl.info(LogImpl.java:23)-Connecting...
+com.briup.environment.util.LogImpl.info(LogImpl.java:23)-Connected! Now sending...
+com.briup.environment.util.LogImpl.info(LogImpl.java:23)-Sent complete!
+com.briup.environment.util.LogImpl.info(LogImpl.java:23)-Waiting...
+com.briup.environment.util.LogImpl.info(LogImpl.java:23)-Waiting...
+com.briup.environment.util.LogImpl.debug(LogImpl.java:18)-采集环境数据：0
+com.briup.environment.util.LogImpl.info(LogImpl.java:23)-温度 湿度：0
+com.briup.environment.util.LogImpl.info(LogImpl.java:23)-光照强度：0
+com.briup.environment.util.LogImpl.info(LogImpl.java:23)-二氧化碳：0
+com.briup.environment.util.LogImpl.info(LogImpl.java:23)-Connecting...
+com.briup.environment.util.LogImpl.info(LogImpl.java:23)-Connected! Now sending...
+com.briup.environment.util.LogImpl.info(LogImpl.java:23)-Sent complete!
+com.briup.environment.util.LogImpl.info(LogImpl.java:23)-Got information
+com.briup.environment.util.LogImpl.info(LogImpl.java:23)-Waiting...
+com.briup.environment.util.LogImpl.debug(LogImpl.java:18)-采集环境数据：0
+com.briup.environment.util.LogImpl.info(LogImpl.java:23)-温度 湿度：0
+com.briup.environment.util.LogImpl.info(LogImpl.java:23)-光照强度：0
+com.briup.environment.util.LogImpl.info(LogImpl.java:23)-二氧化碳：0
+com.briup.environment.util.LogImpl.info(LogImpl.java:23)-Connecting...
+com.briup.environment.util.LogImpl.info(LogImpl.java:23)-Connected! Now sending...
+com.briup.environment.util.LogImpl.info(LogImpl.java:23)-Sent complete!
+com.briup.environment.util.LogImpl.info(LogImpl.java:23)-Got information
+com.briup.environment.util.LogImpl.info(LogImpl.java:23)-Waiting...
+com.briup.environment.util.LogImpl.debug(LogImpl.java:18)-采集环境数据：0
+com.briup.environment.util.LogImpl.info(LogImpl.java:23)-温度 湿度：0
+com.briup.environment.util.LogImpl.info(LogImpl.java:23)-光照强度：0
+com.briup.environment.util.LogImpl.info(LogImpl.java:23)-二氧化碳：0
+com.briup.environment.util.LogImpl.info(LogImpl.java:23)-Connecting...
+com.briup.environment.util.LogImpl.info(LogImpl.java:23)-Connected! Now sending...
+com.briup.environment.util.LogImpl.info(LogImpl.java:23)-Got information
+com.briup.environment.util.LogImpl.info(LogImpl.java:23)-Sent complete!
+com.briup.environment.util.LogImpl.info(LogImpl.java:23)-Waiting...
+com.briup.environment.util.LogImpl.debug(LogImpl.java:18)-采集环境数据：0
+com.briup.environment.util.LogImpl.info(LogImpl.java:23)-温度 湿度：0
+com.briup.environment.util.LogImpl.info(LogImpl.java:23)-光照强度：0
+com.briup.environment.util.LogImpl.info(LogImpl.java:23)-二氧化碳：0
+com.briup.environment.util.LogImpl.info(LogImpl.java:23)-Connecting...
+com.briup.environment.util.LogImpl.info(LogImpl.java:23)-Connected! Now sending...
+com.briup.environment.util.LogImpl.info(LogImpl.java:23)-Sent complete!
+com.briup.environment.util.LogImpl.info(LogImpl.java:23)-Got information
+com.briup.environment.util.LogImpl.info(LogImpl.java:23)-Waiting...
+com.briup.environment.util.LogImpl.debug(LogImpl.java:18)-采集环境数据：0
+com.briup.environment.util.LogImpl.info(LogImpl.java:23)-温度 湿度：0
+com.briup.environment.util.LogImpl.info(LogImpl.java:23)-光照强度：0
+com.briup.environment.util.LogImpl.info(LogImpl.java:23)-二氧化碳：0
+com.briup.environment.util.LogImpl.info(LogImpl.java:23)-Connecting...
+com.briup.environment.util.LogImpl.info(LogImpl.java:23)-Connected! Now sending...
+com.briup.environment.util.LogImpl.info(LogImpl.java:23)-Got information
+com.briup.environment.util.LogImpl.info(LogImpl.java:23)-Sent complete!
+com.briup.environment.util.LogImpl.info(LogImpl.java:23)-开始入库
+com.briup.environment.util.LogImpl.info(LogImpl.java:23)-Waiting...
+com.briup.environment.util.LogImpl.debug(LogImpl.java:18)-采集环境数据：0
+com.briup.environment.util.LogImpl.info(LogImpl.java:23)-温度 湿度：0
+com.briup.environment.util.LogImpl.info(LogImpl.java:23)-光照强度：0
+com.briup.environment.util.LogImpl.info(LogImpl.java:23)-二氧化碳：0
+com.briup.environment.util.LogImpl.info(LogImpl.java:23)-Connecting...
+com.briup.environment.util.LogImpl.info(LogImpl.java:23)-Connected! Now sending...
+com.briup.environment.util.LogImpl.info(LogImpl.java:23)-Sent complete!
+com.briup.environment.util.LogImpl.info(LogImpl.java:23)-Got information
+com.briup.environment.util.LogImpl.info(LogImpl.java:23)-开始入库
+com.briup.environment.util.LogImpl.info(LogImpl.java:23)-入库完成
